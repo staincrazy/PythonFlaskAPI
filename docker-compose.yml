@@ -1,0 +1,7 @@
+services:
+  web:
+    build: UdemyCourse
+    ports:
+      - "5005:5000"
+    volumes:
+      - .:/app
