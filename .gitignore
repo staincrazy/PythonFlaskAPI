@@ -1,0 +1,13 @@
+__pycache__
+
+# IDE Folders
+/.buildpath
+/.project
+/.settings
+/.idea
+/.vscode
+/.run
+
+# OS Folders
+.DS_Store
+.idea
